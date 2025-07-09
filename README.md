@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=970Thunder&show_icons=true&theme=holi#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=970Thunder&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-josstorer.vercel.app/api/top-langs/?username=970Thunder&count_private=true&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=00000000&layout=compact&hide=scss&exclude_repo=-,Draw-Numbers,Garbage-Classification-Search" alt="GitHub-Language-Stats" height=200/>
+    <img src="https://github-stats-josstorer.vercel.app/api/top-langs/?username=970Thunder&count_private=true&title_color=6dbaea&icon_color=6dbaea&text_color=87c6ea&bg_color=00000000&layout=compact&hide=scss&exclude_repo=-,Draw-Numbers,Garbage-Classification-Search" alt="GitHub-Language-Stats" height=250/>
   </a>
 <!--
 **970thunder/970thunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
