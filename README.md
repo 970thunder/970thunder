@@ -1,12 +1,10 @@
 # 🚀 HELLO ✨ I'm 小泥人Hyper
-
 💻 **Full-Stack Developer** | 🌐 **Open Source Enthusiast**  
 
 [![Blog Badge](https://img.shields.io/badge/-My_Blog-1DA1F2?style=flat&logo=Ghost&logoColor=white)]([https://xhyper.dpdns.org](https://xhyper.dpdns.org))
 
 <br/>
 
-## 📊 GitHub Stats 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=970Thunder&show_icons=true&theme=holi#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=970Thunder&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   <a href="https://github.com/970Thunder">
