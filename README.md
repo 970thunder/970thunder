@@ -1,7 +1,7 @@
 # 🚀 HELLO ✨ I'm 小泥人Hyper
 💻 **Full-Stack Developer** | 🌐 **Open Source Enthusiast**  
 
-[![Blog Badge](https://img.shields.io/badge/-My_Blog-1DA1F2?style=flat&logo=Ghost&logoColor=white)]([https://xhyper.dpdns.org](https://xhyper.dpdns.org))
+<a href="xhyper.dpdns.org">If you want to learn more about me, please go to my blog</a>
 
 <br/>
 
