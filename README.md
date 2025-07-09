@@ -19,8 +19,6 @@
 
 <br/>
 
-## 🔧 Technologies & Tools
-
 ![](https://img.shields.io/badge/Vue3-42b883?style=flat&logo=vuedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
