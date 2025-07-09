@@ -6,6 +6,8 @@
 </div>
 <br/>
 
+
+[![Anurag's GitHub stats-Dark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=970Thunder&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=970Thunder&show_icons=true&theme=holi#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=970Thunder&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   <a href="https://github.com/970Thunder">
