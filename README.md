@@ -1,4 +1,4 @@
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 50px;">
   <div>🚀 HELLO ✨ I'm 小泥人Hyper</div>
   <div>💻 Full-Stack Developer | 🌐 <strong>Open Source Enthusiast</strong></div>
 
