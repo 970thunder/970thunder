@@ -1,9 +1,8 @@
 # 🚀 HELLO ✨ I'm 小泥人Hyper
 
 💻 **Full-Stack Developer** | 🌐 **Open Source Enthusiast**  
-📍 *Shanghai, China* | ✉️ [contact@email.com](mailto:contact@email.com)
 
-[![Blog Badge](https://img.shields.io/badge/-My_Blog-1DA1F2?style=flat&logo=Ghost&logoColor=white)]([https://your-blog-link.com](https://xhyper.dpdns.org))
+[![Blog Badge](https://img.shields.io/badge/-My_Blog-1DA1F2?style=flat&logo=Ghost&logoColor=white)]([https://xhyper.dpdns.org](https://xhyper.dpdns.org))
 
 ---
 
@@ -17,8 +16,7 @@
       height="195"
     />
   </a>
-  
----
+  <br/>
 
 ## 🔧 Technologies & Tools
 
