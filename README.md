@@ -1,6 +1,9 @@
-# 🚀 HELLO ✨ I'm 小泥人Hyper
-💻 **Full-Stack Developer** | 🌐 **Open Source Enthusiast**  
+<div style="text-align: center; font-size: 24px;">
+  <div>🚀 HELLO ✨ I'm 小泥人Hyper</div>
+  <div>💻 Full-Stack Developer | 🌐 <strong>Open Source Enthusiast</strong></div>
+
 <a href="https://xhyper.dpdns.org">If you want to learn more about me, please go to my blog</a>
+</div>
 <br/>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=970Thunder&show_icons=true&theme=holi#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
